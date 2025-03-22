@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mm-malkani/urlShrinker-JS.git"
+    "url": "git+https://github.com/mm-malkani/nodejs-template.git"
   },
   "author": "Muhammad Malkani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mm-malkani/urlShrinker-JS/issues"
+    "url": "https://github.com/mm-malkani/nodejs-template/issues"
   },
-  "homepage": "https://github.com/mm-malkani/urlShrinker-JS#readme",
+  "homepage": "https://github.com/mm-malkani/nodejs-templateS#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
